@@ -1,6 +1,10 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: page
+title: Home
+permalink: /
 ---
+
+# Welcome to My Awesome Site!
+
+This is the beginning of something truly spectacular. Here's where you can start exploring what I've created just for you.
+
